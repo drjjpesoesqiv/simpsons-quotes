@@ -1,6 +1,6 @@
 # simpsons-quotes
 
-docker image for getting a random simpsons quotes
+docker image for getting a random simpsons quote
 
 http://host:port/
 ```
