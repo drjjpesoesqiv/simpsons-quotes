@@ -1,0 +1,13 @@
+{
+  "name": "simpsons_quotes",
+  "version": "0.1.0",
+  "description": "simpsons quotes",
+  "author": "James Steinmetz <james.j.steinmetz@outlook.com>",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
